@@ -3,3 +3,5 @@ Perú
 Chile
 Brasil
 Bolivia
+Canada
+Francia
