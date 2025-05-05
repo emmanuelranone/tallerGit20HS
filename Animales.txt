@@ -2,3 +2,5 @@ Perro
 Gato
 Loro
 Leon
+Elefante
+Zorro
